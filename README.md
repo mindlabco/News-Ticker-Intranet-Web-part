@@ -10,4 +10,4 @@ To use the web part follow the below steps:-
 5) Now run *npm install* command to install all the npm packages
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/mindlabco/News-Ticker-Intranet-Web-part/blob/master/News-Ticker.png)
