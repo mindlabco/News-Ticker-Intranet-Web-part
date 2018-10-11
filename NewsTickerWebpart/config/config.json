@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "news-ticker-webpart-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/newsTickerWebpart/NewsTickerWebpartWebPart.js",
+          "manifest": "./src/webparts/newsTickerWebpart/NewsTickerWebpartWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "NewsTickerWebpartWebPartStrings": "lib/webparts/newsTickerWebpart/loc/{locale}.js"
+  }
+}

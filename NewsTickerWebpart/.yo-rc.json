@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "news-ticker-webpart",
+    "libraryId": "28516851-058b-49d1-a98f-ee741677839e",
+    "environment": "spo"
+  }
+}
