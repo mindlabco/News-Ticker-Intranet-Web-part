@@ -8,6 +8,6 @@ To use the web part follow the below steps:-
 3) Navigate to the cloned repository folder
 4) Open your system's terminal on that folder
 5) Now run *npm install* command to install all the npm packages
-
-
+# Output
+Below Screenshot wil be the output of this web part
 ![Image of Yaktocat](https://github.com/mindlabco/News-Ticker-Intranet-Web-part/blob/master/News-Ticker.png)
